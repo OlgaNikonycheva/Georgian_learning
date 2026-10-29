@@ -4,6 +4,8 @@ Source of truth: only material Olga sends from class. One file per lesson. Do no
 
 Combined dump: [all lessons 1–12](all-lessons.md). Topic index: [grammar map](grammar-map.md).
 
+Olga’s path (when sent): [learning path](../learning-path.md).
+
 - [Lesson 1](lesson-01.md) — family, home/school objects, pronouns, plural **-ები**, **-ში** / **-ზე**, present «to be» (only **არის** in examples)
 - [Lesson 2](lesson-02.md) — places, days and dates (**-ს**, **-მდე**), სამსახური / მუშაობა, past «to be» **ვიყავი**
 - [Lesson 3](lesson-03.md) — colours, fruit and vegetables, გრძელი / მოკლე, possessive pronouns
