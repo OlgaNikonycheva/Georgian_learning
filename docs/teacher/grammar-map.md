@@ -33,3 +33,9 @@ Quick index into [all lessons](all-lessons.md). Search this table, then open the
 | Need future | დამჭირდება დასჭირდება | [12](lesson-12.md) |
 | Want future | მომინდება მოუნდება | [12](lesson-12.md) |
 | For | -თვის, დედასთვის, ჩემთვის | [12](lesson-12.md) |
+| Near / with | -თან, -სთან, მანქანასთან, სახლთან, შენთან | [13](lesson-13.md) |
+| Such / the same | ასეთი, ასეთივე | [13](lesson-13.md) |
+| Whose | ვისი | [13](lesson-13.md) |
+| Fridge | მაცივარი | [13](lesson-13.md) |
+| Weather / temperature | ამინდი, ცივა, თბილა, ცხელა, გრილა | [13](lesson-13.md) |
+| Want short past | მომინდა მოგინდა მოუნდა | [13](lesson-13.md) |

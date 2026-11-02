@@ -2,7 +2,7 @@
 
 Source of truth: only material Olga sends from class. One file per lesson. Do not mix in extras.
 
-Combined dump: [all lessons 1–12](all-lessons.md). Topic index: [grammar map](grammar-map.md).
+Combined dump: [all lessons 1–13](all-lessons.md). Topic index: [grammar map](grammar-map.md).
 
 Olga’s path (when sent): [learning path](../learning-path.md).
 
@@ -18,3 +18,4 @@ Olga’s path (when sent): [learning path](../learning-path.md).
 - [Lesson 10](lesson-10.md) — **მარგამ**, **კარადა**; want **ინდა**; need **ჭირდება**; past + **ოდა**
 - [Lesson 11](lesson-11.md) — adjectives/adverbs; adjective drops last letter, preposition on the noun (**დიდ სახლში**)
 - [Lesson 12](lesson-12.md) — **რატომ**; future need **დამჭირდება**; future want **მომინდება**; **-თვის** / **ჩემთვის**
+- [Lesson 13](lesson-13.md) — **-თან / -სთან**; **ასეთი / ასეთივე**; weather/temp; **ვისი**; **მაცივარი**; short past want **მომინდა**

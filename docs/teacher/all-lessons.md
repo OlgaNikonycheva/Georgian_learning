@@ -1,6 +1,6 @@
-# All teacher lessons (1–12)
+# All teacher lessons (1–13)
 
-Dump of filed notes as of 2026-10-29. Source: Olga’s teacher. One file per lesson lives beside this dump.
+Dump of filed notes as of 2026-11-02. Source: Olga’s teacher. One file per lesson lives beside this dump.
 
 Topic index: [grammar map](grammar-map.md).
 
@@ -16,6 +16,7 @@ Topic index: [grammar map](grammar-map.md).
 - [Lesson 10](#lesson-10)
 - [Lesson 11](#lesson-11)
 - [Lesson 12](#lesson-12)
+- [Lesson 13](#lesson-13)
 
 ---
 
@@ -751,3 +752,57 @@ Possessive pronouns: drop the last **ი**, then add **თვის**.
 | ჩვენთვის | Для нас |
 | თქვენთვის | Для вас |
 | მათთვის | Для них |
+
+---
+
+# Lesson 13
+
+Source: Olga’s teacher. Filed 2026-11-02. No extras mixed in.
+
+## Grammar — location: «с / к / у / около / возле»
+
+If the noun ends in a vowel: noun + **სთან**.
+
+- მანქანა + სთან = **მანქანასთან** — У машины
+
+If the vowel is **ი**: drop **ი**, then + **თან**.
+
+- შენ + თან = **შენთან** — С тобой
+- სახლი − ი + თან = **სახლთან** — У дома
+
+If it ends in a consonant: noun + **თან**.
+
+## Vocabulary
+
+| Georgian | Teacher gloss |
+| --- | --- |
+| ასეთი | такой (такой хороший!) |
+| ასეთივე | такое же (хочу такое же платье) |
+| მაცივარი | Холодильник |
+| ვისი | Чей? Чья? Чьё? |
+| ცივა | Холодно |
+| ცივი | Холодный |
+| სიცივე | Холод |
+| თბილა | Тепло |
+| თბილი | Теплый |
+| სითბო | Теплота |
+| ცხელი | Горячий / жаркий |
+| ცხელა | Горячо / жарко |
+| სიცხე | Жара (температура, когда простуда) |
+| გრილი | Прохладный |
+| გრილა | Прохладно |
+| სიგრილე | Прохлада |
+| ამინდი | Погода |
+
+## Grammar — «захотел» (short past)
+
+**მო** + present want (not **ება**).
+
+| Georgian | Teacher gloss |
+| --- | --- |
+| მე მომინდა | Я захотел / а |
+| შენ მოგინდა | ты захотела |
+| მას მოუნდა | Он / она захотела |
+| ჩვენ მოგვინდა | Мы захотели |
+| თქვენ მოგინდათ | Вы захотели |
+| მათ მოუნდათ | Они захотели |
