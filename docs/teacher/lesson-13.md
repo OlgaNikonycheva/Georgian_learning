@@ -37,6 +37,15 @@ If it ends in a consonant: noun + **თან**.
 | სიგრილე | Прохлада |
 | ამინდი | Погода |
 
+## Weather with **-თან** (Olga, 2026-11-05)
+
+In sentences like Russian «у брата холодно, а с мамой тепло», Georgian needs the verb **არის**:
+
+- ძმასთან არის ცივა
+- დედასთან არის თბილა
+
+Do not treat **ცივა** / **თბილა** alone after **-თან** as complete. No extra weather grammar beyond this.
+
 ## Grammar — «захотел» (short past)
 
 **მო** + present want (not **ება**).

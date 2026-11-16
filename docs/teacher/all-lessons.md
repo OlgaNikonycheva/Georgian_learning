@@ -1,6 +1,6 @@
-# All teacher lessons (1–13)
+# All teacher lessons (1–16)
 
-Dump of filed notes as of 2026-11-02. Source: Olga’s teacher. One file per lesson lives beside this dump.
+Dump of filed notes as of 2026-11-16. Source: Olga’s teacher. One file per lesson lives beside this dump. Topic regroup: [by topic](by-topic.md).
 
 Topic index: [grammar map](grammar-map.md).
 
@@ -17,6 +17,9 @@ Topic index: [grammar map](grammar-map.md).
 - [Lesson 11](#lesson-11)
 - [Lesson 12](#lesson-12)
 - [Lesson 13](#lesson-13)
+- [Lesson 14](#lesson-14)
+- [Lesson 15](#lesson-15)
+- [Lesson 16](#lesson-16)
 
 ---
 
@@ -794,6 +797,15 @@ If it ends in a consonant: noun + **თან**.
 | სიგრილე | Прохлада |
 | ამინდი | Погода |
 
+## Weather with **-თან** (Olga, 2026-11-05)
+
+In sentences like Russian «у брата холодно, а с мамой тепло», Georgian needs the verb **არის**:
+
+- ძმასთან არის ცივა
+- დედასთან არის თბილა
+
+Do not treat **ცივა** / **თბილა** alone after **-თან** as complete. No extra weather grammar beyond this.
+
 ## Grammar — «захотел» (short past)
 
 **მო** + present want (not **ება**).
@@ -806,3 +818,210 @@ If it ends in a consonant: noun + **თან**.
 | ჩვენ მოგვინდა | Мы захотели |
 | თქვენ მოგინდათ | Вы захотели |
 | მათ მოუნდათ | Они захотели |
+
+---
+
+# Lesson 14
+
+Source: Olga’s teacher. Filed 2026-11-05. No extras mixed in.
+
+Teacher listed **შეხვედრამდე** twice (once as «До встречи», once as a stray «- შეხვედრამდე»). Stored once.
+
+## Vocabulary — dishes / tableware
+
+| Georgian | Teacher gloss |
+| --- | --- |
+| ჭურჭელი | Посуда |
+| თეფში | Тарелка |
+| ჭიქა | Кружка |
+| კოვზი | Ложка |
+| დანა | Нож |
+| ჩანგალი | Вилка |
+| ქვაბი | Кастрюля |
+| ტაფა | Сковорода |
+| კონა | Пучок |
+
+## Farewell
+
+| Georgian | Teacher gloss |
+| --- | --- |
+| შეხვედრამდე | До встречи |
+
+---
+
+# Lesson 15
+
+Source: Olga’s teacher. Filed 2026-11-12. No extras mixed in.
+
+Teacher listed **ვისი** again (L13 had «Чей? Чья? Чьё?»; this send adds «Чьи?»). Stored as sent. **ასეთი** already in L13; this send has **ესეთი/ასეთი** for «Такое» — both kept in the topic index, not copied twice as the same row.
+
+## Question
+
+| Georgian | Teacher gloss |
+| --- | --- |
+| ვისი? | Чей? Чья? Чьё? Чьи? |
+
+## Vocabulary — products / dairy
+
+| Georgian | Teacher gloss |
+| --- | --- |
+| პროდუქტი | Продукты |
+| პროდუქცია | Продукция |
+| რძის პროდუქცია | Молочная продукция |
+| რძე | Молоко |
+| ხაჭო | Творог |
+| არაჟანი | Сметана |
+| იოგურტი | Йогурт |
+| ყველი | Сыр |
+| კეფირი | Кефир |
+| კარაქი | Сливочное масло |
+| ნაყინი | Мороженное |
+| ნაღები | Сливки |
+| ზეთი | Растительное масло |
+
+## Shopping / clothes phrases
+
+| Georgian | Teacher gloss |
+| --- | --- |
+| სად შემიძლია მოვსინჯო | Где бы я могла примерить |
+| შეცვლა | Поменять |
+| ესეთი/ასეთი | Такое |
+| მოგიხდა | Подошло тебе |
+| შენ გიხდება | Подходит тебе |
+| მოდელი | Модель |
+| სხვა | Другое |
+| მომიხდა | Подошло мне |
+| მე მიხდება | Мне подходит |
+| ფასდაკლება | Скидка |
+| ფასი | Цена |
+| ზუსტი | Точный |
+| ზუსტად | Точно |
+
+## Grammar — «мочь»: **შემიძლია**
+
+| Georgian | Teacher gloss |
+| --- | --- |
+| მე შემიძლია | Я могу |
+| შენ შეგიძლია | Ты можешь |
+| მას შეუძლია | Он/она может |
+| ჩვენ შეგვიძლია | Мы можем |
+| თქვენ შეგიძლიათ | Вы можете |
+| მათ შეუძლიათ | Они могут |
+
+## Quantity — enough
+
+| Georgian | Teacher gloss |
+| --- | --- |
+| საკმარისი | Достаточно /хватит |
+| მე მეყოფა | Мне хватит |
+
+## Notes vs regular Georgian
+
+Teacher forms kept. Short flags only:
+
+- **Мороженное** → **ნაყინი** — usual Russian spelling is **мороженое**; **ნაყინი** is the usual Georgian for ice cream.
+- **ესეთი** — usual spelling **ასეთი** (already L13). Teacher listed both.
+- **სად შემიძლია მოვსინჯო** for «примерить» — **მოვსინჯო** is try / taste (cf. L5 **გავსინჯო**); trying on clothes is usually **მოვირგო**.
+- **ზეთი** glossed «растительное масло» — usual **ზეთი** is oil in general; vegetable oil is often **მცენარეული ზეთი**.
+
+---
+
+# Lesson 16
+
+Source: Olga’s teacher. Filed 2026-11-16. No extras mixed in.
+
+Teacher listed **არამიშავს** and **არაუშავს** as two replies, and **წელიწადი/წელი** together for «год/число/прилагательное». Stored as sent. Months listed in order January–December.
+
+## Replies
+
+| Georgian | Teacher gloss |
+| --- | --- |
+| არამიშავს | Ничего / в среднем / нормально (про дела) |
+| არაუშავს | Ничего страшного / нет проблем |
+
+## ID / form
+
+| Georgian | Teacher gloss |
+| --- | --- |
+| მისამართი | Адрес |
+| სახელი | Имя |
+| გვარი | Фамилия |
+| თარიღი | Дата |
+| დაბადების თარიღი | Дата рождения |
+
+## When / year
+
+| Georgian | Teacher gloss |
+| --- | --- |
+| როდის | Когда |
+| წელიწადი/წელი | Год / число / прилагательное |
+| წელს | В год |
+| ამ წელს | В этом году |
+
+## Grammar — **ამ** / **იმ**
+
+Teacher: preposition + «это» = **ამ**; preposition + «тот» = **იმ**.
+
+| Georgian | Teacher gloss |
+| --- | --- |
+| ამ წელს | В этом году |
+| ამ სახლში | В этом доме |
+| იმ სახლში | В том доме |
+
+## Seasons
+
+| Georgian | Teacher gloss |
+| --- | --- |
+| წელიწადის დრო | Время года |
+| დრო | Время |
+| სეზონი | Сезон |
+| ზამთარი | Зима |
+| გაზაფხული | Весна |
+| ზაფხული | Лето |
+| შემოდგომა | Осень |
+
+## Months
+
+| Georgian | Teacher gloss |
+| --- | --- |
+| თვე | Месяц |
+| იანვარი | Январь |
+| თებერვალი | Февраль |
+| მარტი | Март |
+| აპრილი | Апрель |
+| მაისი | Май |
+| ივნისი | Июнь |
+| ივლისი | Июль |
+| აგვისტო | Август |
+| სექტემბერი | Сентябрь |
+| ოქტომბერი | Октябрь |
+| ნოემბერი | Ноябрь |
+| დეკემბერი | Декабрь |
+
+**«В [месяце]»:** add **ს**, not **-ში** (drop final **ი**). Olga (2026-11-16): **იანვარს**, **მარტს**, **ივლისს**.
+
+## Time / distance / period
+
+| Georgian | Teacher gloss |
+| --- | --- |
+| მალე | Скоро |
+| დიდი ხანი | Долго (большой период) |
+| ახლოს | Близко |
+| შორს | Далеко |
+| ხანი | Период |
+| რამდენ ხანში | Через сколько |
+
+## Ready
+
+| Georgian | Teacher gloss |
+| --- | --- |
+| მზად | Готов / готово / готовый |
+
+## Notes vs regular Georgian
+
+Teacher forms kept. Short flags only:
+
+- **არამიშავს** / **არაუშავს** — teacher split the two replies; usual «ничего страшного / нет проблем» is **არაუშავს**.
+- **წელი** vs **წელიწადი** — teacher listed both for «год/число/прилагательное»; usual **წელიწადი** is a year as a period, **წელი** a year in dates / the number of a year.
+
+
