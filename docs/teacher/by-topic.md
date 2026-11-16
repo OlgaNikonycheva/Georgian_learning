@@ -1,6 +1,6 @@
 # Teacher material by topic
 
-Union of filed lessons 1–16. Teacher notes stay the source of truth. Words stay with the lesson number where the teacher introduced them, even when a later lesson belongs to the same topic. Duplicates merged. Unglossed items are stored as sent.
+Union of filed lessons 1–17. Teacher notes stay the source of truth. Words stay with the lesson number where the teacher introduced them, even when a later lesson belongs to the same topic. Duplicates merged. Unglossed items are stored as sent.
 
 Lesson files: [index](index.md). Combined dump: [all lessons](all-lessons.md). Keyword index: [grammar map](grammar-map.md).
 
@@ -24,6 +24,7 @@ Lesson files: [index](index.md). Combined dump: [all lessons](all-lessons.md). K
 - [Pronouns / possessives](#pronouns--possessives)
 - [Prepositions / postpositions](#prepositions--postpositions)
 - [Verbs: be / have / want / need / can](#verbs-be--have--want--need--can)
+- [Verbs: motion (go / walk)](#verbs-motion-go--walk)
 - [Market / payment](#market--payment)
 - [Other grammar / particles](#other-grammar--particles)
 - [Notes vs regular Georgian](#notes-vs-regular-georgian)
@@ -290,6 +291,8 @@ From [Lesson 14](lesson-14.md). Fridge **მაცივარი** is under [ho
 | ეზო | Двор | [4](lesson-04.md) |
 | სალარო | Касса | [5](lesson-05.md) |
 | ზოოპარკი | Зоопарк | [8](lesson-08.md) |
+| ცენტრი | центр | [17](lesson-17.md) |
+| სავაჭრო ცენტრი | торговый центр | [17](lesson-17.md) |
 
 ---
 
@@ -388,6 +391,7 @@ Days from [Lesson 2](lesson-02.md). Year, seasons, and months from [Lesson 16](l
 | ოქტომბერი | Октябрь | [16](lesson-16.md) |
 | ნოემბერი | Ноябрь | [16](lesson-16.md) |
 | დეკემბერი | Декабрь | [16](lesson-16.md) |
+| ყოველ (დღე) | каждый (день) | [17](lesson-17.md) |
 
 **«В [день недели]»:** add **ს** (drop final **ი**). **«до»:** **-მდე**.
 
@@ -654,6 +658,24 @@ Phrase with this verb: **სად შემიძლია მოვსინ�
 
 ---
 
+## Verbs: motion (go / walk)
+
+From [Lesson 17](lesson-17.md). Present paradigms only as the teacher sent them. Separate from [be / have / want / need / can](#verbs-be--have--want--need--can).
+
+### Go **მიდის** ([Lesson 17](lesson-17.md))
+
+Imperative: **იდი** → **მიდი**. Teacher 1sg: **მი + ვ + დი + ვარ**.
+
+მე მივდივარ · შენ მიდიხარ · ის მიდის · ჩვენ მივდივართ · თქვენ მიდიხართ · ისინი მიდიან
+
+### Walk / go regularly **დადის** ([Lesson 17](lesson-17.md))
+
+Imperative: **ხოდი** → **დადი**.
+
+მე დავდივარ · შენ დადიხარ · ის დადის · ჩვენ დავდივართ · თქვენ დადიხართ · ისინი დადიან
+
+---
+
 ## Market / payment
 
 Phrases from [Lesson 4](lesson-04.md) dialogue and [Lesson 5](lesson-05.md). Kept as taught chunks.
@@ -718,3 +740,4 @@ Teacher forms kept as filed. These look off against usual Georgian; do not rewri
 - **ზეთი** (L15) glossed «растительное масло» — usual **ზეთი** is oil in general; vegetable oil is often **მცენარეული ზეთი**.
 - **არამიშავს** / **არაუშავს** (L16) — teacher split the two replies; usual «ничего страшного / нет проблем» is **არაუშავს**.
 - **წელი** vs **წელიწადი** (L16) — teacher listed both for «год/число/прилагательное»; usual **წელიწადი** is a year as a period, **წელი** a year in dates / the number of a year.
+- **ხოდი** → **დადი** (L17) — teacher citation for the walk imperative; usual 2sg is **დადი**. **ხოდი** is not a usual Georgian dictionary form.
