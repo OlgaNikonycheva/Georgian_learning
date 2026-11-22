@@ -1,6 +1,6 @@
 # Teacher material by topic
 
-Union of filed lessons 1–17. Teacher notes stay the source of truth. Words stay with the lesson number where the teacher introduced them, even when a later lesson belongs to the same topic. Duplicates merged. Unglossed items are stored as sent.
+Union of filed lessons 1–18. Teacher notes stay the source of truth. Words stay with the lesson number where the teacher introduced them, even when a later lesson belongs to the same topic. Duplicates merged. Unglossed items are stored as sent.
 
 Lesson files: [index](index.md). Combined dump: [all lessons](all-lessons.md). Keyword index: [grammar map](grammar-map.md).
 
@@ -24,7 +24,7 @@ Lesson files: [index](index.md). Combined dump: [all lessons](all-lessons.md). K
 - [Pronouns / possessives](#pronouns--possessives)
 - [Prepositions / postpositions](#prepositions--postpositions)
 - [Verbs: be / have / want / need / can](#verbs-be--have--want--need--can)
-- [Verbs: motion (go / walk)](#verbs-motion-go--walk)
+- [Verbs: motion (go / walk / enter / exit)](#verbs-motion-go--walk--enter--exit)
 - [Market / payment](#market--payment)
 - [Other grammar / particles](#other-grammar--particles)
 - [Notes vs regular Georgian](#notes-vs-regular-georgian)
@@ -322,6 +322,7 @@ From [Lesson 14](lesson-14.md). Fridge **მაცივარი** is under [ho
 | ავტობუსი | Автобус | [2](lesson-02.md) |
 | მარშრუტკა | Маршрутка | [2](lesson-02.md) |
 | ველოსიპედი | Велосипед | [8](lesson-08.md) |
+| მეტრო | *(no gloss given)* | [18](lesson-18.md) |
 
 ---
 
@@ -534,7 +535,9 @@ Have-constructions use **მას** / **მათ** ([Lesson 6](lesson-06.md)),
 | **-ზე** | на (drop final **ი**) | [1](lesson-01.md) |
 | **-ს** on a weekday | в [день] (drop final **ი**) | [2](lesson-02.md) |
 | **-ს** on a month | в [месяце] (drop final **ი**; not **-ში**: **იანვარს**) | [16](lesson-16.md) |
-| **-მდე** | до | [2](lesson-02.md) |
+| **-მდე** | до | [2](lesson-02.md) · [18](lesson-18.md) |
+| **-იდან** / **-დან** | из (from) | [18](lesson-18.md) |
+| **-ამდე** / **-მდე** | до (until): **-ი** → drop **ი** + **ამდე**; other vowels **ა ო უ ე** + **მდე** | [18](lesson-18.md) |
 | **გარეშე** | без (**კურკის გარეშე**) | [4](lesson-04.md) |
 | **იქით მარცხნივ** | вот туда, налево | [4](lesson-04.md) |
 | **სალაროსთან** | К кассе | [5](lesson-05.md) |
@@ -552,6 +555,10 @@ Have-constructions use **მას** / **მათ** ([Lesson 6](lesson-06.md)),
 **-თან / -სთან** ([Lesson 13](lesson-13.md)): vowel-final noun + **სთან** (**მანქანასთან**); if the vowel is **ი**, drop **ი** then **თან** (**სახლთან**, **შენთან**); consonant-final + **თან**. With weather words, Olga (2026-11-05): **ძმასთან არის ცივა** / **დედასთან არის თბილა** — **არის** is required.
 
 **ამ** / **იმ** ([Lesson 16](lesson-16.md)): teacher: preposition + «это» = **ამ**; preposition + «тот» = **იმ**. Examples: **ამ წელს**, **ამ სახლში**, **იმ სახლში**.
+
+**-იდან** / **-დან** ([Lesson 18](lesson-18.md)): teacher: noun ends **ი** or **ა** → drop? + **იდან** (**სახლიდან**, **მანქანიდან**); noun ends **ო**, **ე**, **უ** → + **დან** (**კინოდან**, **კაფედან**).
+
+**-ამდე** / **-მდე** ([Lesson 18](lesson-18.md)): noun **-ი** → drop **ი** + **ამდე** (**სახლამდე**); other vowels **ა**, **ო**, **უ**, **ე** → + **მდე** (**მანქანამდე**, **მეტრომდე**). L2 **ორშაბათამდე** fits the **-ი** rule.
 
 ---
 
@@ -658,9 +665,9 @@ Phrase with this verb: **სად შემიძლია მოვსინ�
 
 ---
 
-## Verbs: motion (go / walk)
+## Verbs: motion (go / walk / enter / exit)
 
-From [Lesson 17](lesson-17.md). Present paradigms only as the teacher sent them. Separate from [be / have / want / need / can](#verbs-be--have--want--need--can).
+From [Lesson 17](lesson-17.md) and [Lesson 18](lesson-18.md). Present paradigms only as the teacher sent them. Separate from [be / have / want / need / can](#verbs-be--have--want--need--can). Lesson 18 omitted some pronouns; restored as usual.
 
 ### Go **მიდის** ([Lesson 17](lesson-17.md))
 
@@ -673,6 +680,34 @@ Imperative: **იდი** → **მიდი**. Teacher 1sg: **მი + ვ + �
 Imperative: **ხოდი** → **დადი**.
 
 მე დავდივარ · შენ დადიხარ · ის დადის · ჩვენ დავდივართ · თქვენ დადიხართ · ისინი დადიან
+
+### Exit a room **გადის** ([Lesson 18](lesson-18.md))
+
+Imperative: **გადი**. Teacher gloss: EXIT a room.
+
+მე გავდივარ · შენ გადიხარ · ის გადის · ჩვენ გავდივართ · თქვენ გადიხართ · ისინი გადიან
+
+### Enter a room **შედის** ([Lesson 18](lesson-18.md))
+
+Imperative: **შედი**. Teacher gloss: ENTER a room.
+
+მე შევდივარ · შენ შედიხარ · ის შედის · ჩვენ შევდივართ · თქვენ შედიხართ · ისინი შედიან
+
+### Exit transport / go down **ჩადის** ([Lesson 18](lesson-18.md))
+
+Imperative: **ჩადი**. Teacher gloss: EXIT transport / go down.
+
+მე ჩავდივარ · შენ ჩადიხარ · ის ჩადის · ჩვენ ჩავდივართ · თქვენ ჩადიხართ · ისინი ჩადიან
+
+### Enter transport / go up **ადის** ([Lesson 18](lesson-18.md))
+
+Imperative: **ადი**. Teacher gloss: ENTER transport / go up.
+
+მე ავდივარ · შენ ადიხარ · ის ადის · ჩვენ ავდივართ · თქვენ ადიხართ · ისინი ადიან
+
+### Past of motion verbs ([Lesson 18](lesson-18.md))
+
+Teacher’s past pattern: present + **ოდი**, **ოდით**; he/she: present + **ოდა**; they: present + **ოდნენ**. Endings given: 1sg / 2sg **ოდი**, 2pl **ოდით**, 3sg **ოდა**, 3pl **ოდნენ**. 1pl was not given.
 
 ---
 
