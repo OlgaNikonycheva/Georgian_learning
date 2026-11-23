@@ -1,6 +1,6 @@
 # Teacher material by topic
 
-Union of filed lessons 1–18. Teacher notes stay the source of truth. Words stay with the lesson number where the teacher introduced them, even when a later lesson belongs to the same topic. Duplicates merged. Unglossed items are stored as sent.
+Union of filed lessons 1–19. Teacher notes stay the source of truth. Words stay with the lesson number where the teacher introduced them, even when a later lesson belongs to the same topic. Duplicates merged. Unglossed items are stored as sent.
 
 Lesson files: [index](index.md). Combined dump: [all lessons](all-lessons.md). Keyword index: [grammar map](grammar-map.md).
 
@@ -14,6 +14,9 @@ Lesson files: [index](index.md). Combined dump: [all lessons](all-lessons.md). K
 - [Dishes / tableware](#dishes--tableware)
 - [Places / work](#places--work)
 - [Home / objects](#home--objects)
+- [Bathroom / hygiene](#bathroom--hygiene)
+- [Laundry](#laundry)
+- [Kitchen](#kitchen)
 - [Transport](#transport)
 - [Time of day](#time-of-day)
 - [Days of the week / calendar](#days-of-the-week--calendar)
@@ -256,6 +259,7 @@ Market pay phrases stay under [market / payment](#market--payment).
 | ნაყინი | Мороженное | [15](lesson-15.md) |
 | ნაღები | Сливки | [15](lesson-15.md) |
 | ზეთი | Растительное масло | [15](lesson-15.md) |
+| ქაცვი | sea buckthorn | [19](lesson-19.md) |
 
 ---
 
@@ -311,6 +315,68 @@ From [Lesson 14](lesson-14.md). Fridge **მაცივარი** is under [ho
 | დივანი | Диван | [2](lesson-02.md) |
 | კარადა | Шкаф | [10](lesson-10.md) |
 | მაცივარი | Холодильник | [13](lesson-13.md) |
+
+---
+
+## Bathroom / hygiene
+
+From [Lesson 19](lesson-19.md). Related generics (ჯაგრისი, პასტა, ძაფი, საშრობი, ბალიში) stay with the bathroom compounds they were taught with.
+
+| Georgian | Teacher gloss |
+| --- | --- |
+| შამპუნი | shampoo |
+| კონდიციონერი | conditioner |
+| საპონი | soap |
+| სავარცხელი | comb |
+| კბილი | tooth |
+| კბილის ჯაგრისი | toothbrush |
+| ჯაგრისი | brush |
+| კბილის პასტა | toothpaste |
+| პასტა | paste |
+| კბილის ძაფი | dental floss |
+| ძაფი | thread |
+| სარკე | mirror |
+| სასწორი | scales |
+| წონა | weight |
+| თმის საშრობი | hair dryer |
+| საშრობი | dryer |
+| ბამბა | cotton |
+| ბამბის ჩხირები | cotton buds |
+| ბამბის ბალიში | cotton pad |
+| ბალიში | pillow |
+| ფხვნილი | powder |
+
+---
+
+## Laundry
+
+From [Lesson 19](lesson-19.md). Dishwasher stays under [kitchen](#kitchen).
+
+| Georgian | Teacher gloss |
+| --- | --- |
+| რეცხვის ბალზამი | laundry balsam |
+| რეცხვა | wash/laundry |
+| სარეცხი მანქანა | washing machine |
+
+---
+
+## Kitchen
+
+From [Lesson 19](lesson-19.md). Fridge **მაცივარი** stays under [home / objects](#home--objects) (Lesson 13). Dishes stay under [dishes / tableware](#dishes--tableware).
+
+| Georgian | Teacher gloss |
+| --- | --- |
+| ფქვილი | flour |
+| ჭურჭლის სარეცხი მანქანა | dishwasher |
+| ჭურჭლის სარეცხი მანქანის ტაბლეტები | dishwasher tablets |
+| ტილო | rag |
+| ღრუბელი | sponge (also cloud/cloud) |
+| სარეცხი გუბკა | washing sponge |
+| ნიჟარა | sink/shell |
+| ღუმელი | oven |
+| გაზქურა | stove |
+| მიკროტალღური | microwave |
+| ტალღა | wave |
 
 ---
 
@@ -667,7 +733,7 @@ Phrase with this verb: **სად შემიძლია მოვსინ�
 
 ## Verbs: motion (go / walk / enter / exit)
 
-From [Lesson 17](lesson-17.md) and [Lesson 18](lesson-18.md). Present paradigms only as the teacher sent them. Separate from [be / have / want / need / can](#verbs-be--have--want--need--can). Lesson 18 omitted some pronouns; restored as usual.
+From [Lesson 17](lesson-17.md), [Lesson 18](lesson-18.md), and [Lesson 19](lesson-19.md). Paradigms only as the teacher sent them. Separate from [be / have / want / need / can](#verbs-be--have--want--need--can). Teacher omitted some pronouns; restored as usual. L18 present; L19 past.
 
 ### Go **მიდის** ([Lesson 17](lesson-17.md))
 
@@ -705,9 +771,49 @@ Imperative: **ადი**. Teacher gloss: ENTER transport / go up.
 
 მე ავდივარ · შენ ადიხარ · ის ადის · ჩვენ ავდივართ · თქვენ ადიხართ · ისინი ადიან
 
-### Past of motion verbs ([Lesson 18](lesson-18.md))
+### Past of motion verbs ([Lesson 19](lesson-19.md))
 
-Teacher’s past pattern: present + **ოდი**, **ოდით**; he/she: present + **ოდა**; they: present + **ოდნენ**. Endings given: 1sg / 2sg **ოდი**, 2pl **ოდით**, 3sg **ოდა**, 3pl **ოდნენ**. 1pl was not given.
+Imperfect / ongoing past and completed past as the teacher sent them. Go and walk: imperfect only (no completed forms given; none invented). Teacher 2pl **გიდიოდით** / **შევდიოდით** / **ავდიოდით** kept; flags under [notes vs regular Georgian](#notes-vs-regular-georgian).
+
+#### Go — imperfect / ongoing past
+
+მე მივდიოდი · შენ მიდიოდი · ის მიდიოდა · ჩვენ მივდიოდით · თქვენ მიდიოდით · ისინი მიდიოდნენ
+
+#### Walk — imperfect / ongoing past
+
+მე დავდიოდი · შენ დადიოდი · ის დადიოდა · ჩვენ დავდიოდით · თქვენ დადიოდით · ისინი დადიოდნენ
+
+#### Exit a room — imperfect / ongoing past
+
+მე გავდიოდი · შენ გადიოდი · ის გადიოდა · ჩვენ გავდიოდით · თქვენ გიდიოდით · ისინი გადიოდნენ
+
+#### Exit a room — completed
+
+მე გავედი · შენ გახვედი · ის გავიდა · ჩვენ გავედით · თქვენ გახვედით · ისინი გავიდნენ
+
+#### Enter a room — imperfect / ongoing past
+
+მე შევდიოდი · შენ შედიოდი · ის შედიოდა · ჩვენ შევდიოდით · თქვენ შევდიოდით · ისინი შედიოდნენ
+
+#### Enter a room — completed
+
+მე შევედი · შენ შეხვედი · ის შევიდა · ჩვენ შევედით · თქვენ შეხვედით · ისინი შევიდნენ
+
+#### Exit transport / go down — imperfect / ongoing past
+
+მე ჩავდიოდი · შენ ჩადიოდი · ის ჩადიოდა · ჩვენ ჩავდიოდით · თქვენ ჩადიოდით · ისინი ჩადიოდნენ
+
+#### Exit transport / go down — completed
+
+მე ჩავედი · შენ ჩახვედი · ის ჩავიდა · ჩვენ ჩავედით · თქვენ ჩახვედით · ისინი ჩავიდნენ
+
+#### Enter transport / go up — imperfect / ongoing past
+
+მე ავდიოდი · შენ ადიოდი · ის ადიოდა · ჩვენ ავდიოდით · თქვენ ავდიოდით · ისინი ადიოდნენ
+
+#### Enter transport / go up — completed
+
+მე ავედი · შენ ახვედი · ის ავიდა · ჩვენ ავედით · თქვენ ახვედით · ისინი ავიდნენ
 
 ---
 
@@ -776,3 +882,10 @@ Teacher forms kept as filed. These look off against usual Georgian; do not rewri
 - **არამიშავს** / **არაუშავს** (L16) — teacher split the two replies; usual «ничего страшного / нет проблем» is **არაუშავს**.
 - **წელი** vs **წელიწადი** (L16) — teacher listed both for «год/число/прилагательное»; usual **წელიწადი** is a year as a period, **წელი** a year in dates / the number of a year.
 - **ხოდი** → **დადი** (L17) — teacher citation for the walk imperative; usual 2sg is **დადი**. **ხოდი** is not a usual Georgian dictionary form.
+- **თქვენ გიდიოდით** (L19, exit room imperfect) — usual 2pl is **გადიოდით**.
+- **თქვენ შევდიოდით** (L19, enter room imperfect) — usual 2pl is **შედიოდით**.
+- **თქვენ ავდიოდით** (L19, enter transport / up imperfect) — usual 2pl is **ადიოდით**.
+- **სარეცხი გუბკა** (L19) — **გუბკა** is a Russian loan (губка); usual sponge is **ღრუბელი** (also filed in L19).
+- **ქაცვი** (L19) glossed sea buckthorn — usual dictionary word is **კოწახური**.
+- **კონდიციონერი** (L19) glossed conditioner — usual **კონდიციონერი** is also (often) air conditioner.
+- **ღრუბელი** (L19) glossed sponge (also cloud/cloud) — usual **ღრუბელი** is cloud; the same word is used for a sponge.

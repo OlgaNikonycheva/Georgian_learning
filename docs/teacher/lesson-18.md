@@ -2,7 +2,7 @@
 
 Source: Olga’s teacher. Filed 2026-11-22. No extras mixed in.
 
-Teacher listed four motion verbs (exit / enter a room; exit transport / go down; enter transport / go up) with present paradigms and imperatives, plus from / из (**-იდან** / **-დან**), until / до (**-ამდე** / **-მდე**), and a past pattern for motion verbs. Stored as sent. Teacher omitted შენ / ჩვენ / თქვენ / ისინი pronouns on some lines; pronouns restored in the tables as usual.
+Teacher listed four motion verbs (exit / enter a room; exit transport / go down; enter transport / go up) with present paradigms and imperatives, plus from / из (**-იდან** / **-დან**), until / до (**-ამდე** / **-მდე**). Stored as sent. Teacher omitted შენ / ჩვენ / თქვენ / ისინი pronouns on some lines; pronouns restored in the tables as usual. Past of these motion verbs is in [Lesson 19](lesson-19.md).
 
 ## Grammar — exit a room (imperative: **გადი**)
 
@@ -88,9 +88,7 @@ Other vowels **ა**, **ო**, **უ**, **ე** → + **მდე**: **მან
 
 ## Grammar — past of motion verbs
 
-Teacher rule: present + **ოდი**, **ოდით**; he/she: present + **ოდა**; they: present + **ოდნენ**.
-
-This is the teacher’s past pattern. Endings given: 1sg / 2sg **ოდი**, 2pl **ოდით**, 3sg **ოდა**, 3pl **ოდნენ**. 1pl was not given.
+Full past paradigms (imperfect / ongoing and completed) are in [Lesson 19](lesson-19.md).
 
 ## Vocabulary
 

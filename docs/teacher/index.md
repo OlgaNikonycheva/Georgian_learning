@@ -2,11 +2,11 @@
 
 Source of truth: only material Olga sends from class. One file per lesson. Do not mix in extras.
 
-Combined dump: [all lessons 1–18](all-lessons.md). Topic regroup: [by topic](by-topic.md). Keyword index: [grammar map](grammar-map.md).
+Combined dump: [all lessons 1–19](all-lessons.md). Topic regroup: [by topic](by-topic.md). Keyword index: [grammar map](grammar-map.md).
 
 Olga’s path (when sent): [learning path](../learning-path.md).
 
-Lesson 16 replies/ID/calendar/time filed 2026-11-16; topic lists merged in [by-topic](by-topic.md). Lesson 17 motion verbs (go / walk) filed 2026-11-16. Lesson 18 enter/exit room and transport, from/until, motion past filed 2026-11-22.
+Lesson 16 replies/ID/calendar/time filed 2026-11-16; topic lists merged in [by-topic](by-topic.md). Lesson 17 motion verbs (go / walk) filed 2026-11-16. Lesson 18 enter/exit room and transport, from/until filed 2026-11-22. Lesson 19 motion past (imperfect and completed) and bathroom / laundry / kitchen vocab filed 2026-11-23.
 
 - [Lesson 1](lesson-01.md) — family, home/school objects, pronouns, plural **-ები**, **-ში** / **-ზე**, present «to be» (only **არის** in examples)
 - [Lesson 2](lesson-02.md) — places, days and dates (**-ს**, **-მდე**), სამსახური / მუშაობა, past «to be» **ვიყავი**
@@ -25,4 +25,5 @@ Lesson 16 replies/ID/calendar/time filed 2026-11-16; topic lists merged in [by-t
 - [Lesson 15](lesson-15.md) — **ვისი**; dairy; shopping/try-on; **შემიძლია**; **საკმარისი** / **მეყოფა**
 - [Lesson 16](lesson-16.md) — **არამიშავს** / **არაუშავს**; ID/form; **ამ** / **იმ**; seasons and months (**იანვარს**, not **-ში**); time words **როდის** / **ხანი**; **მზად**
 - [Lesson 17](lesson-17.md) — go **მივდივარ** (imperative **იდი** → **მიდი**); walk **დავდივარ** (imperative **ხოდი** → **დადი**); **ყოველ (დღე)**; **ცენტრი** / **სავაჭრო ცენტრი**
-- [Lesson 18](lesson-18.md) — exit room **გავდივარ** (imperative **გადი**); enter room **შევდივარ** (**შედი**); exit transport / go down **ჩავდივარ** (**ჩადი**); enter transport / go up **ავდივარ** (**ადი**); **-იდან** / **-დან**; **-ამდე** / **-მდე**; past **ოდი** / **ოდით** / **ოდა** / **ოდნენ**; **მეტრო**
+- [Lesson 18](lesson-18.md) — exit room **გავდივარ** (imperative **გადი**); enter room **შევდივარ** (**შედი**); exit transport / go down **ჩავდივარ** (**ჩადი**); enter transport / go up **ავდივარ** (**ადი**); **-იდან** / **-დან**; **-ამდე** / **-მდე**; **მეტრო**; past in [19](lesson-19.md)
+- [Lesson 19](lesson-19.md) — imperfect / ongoing past **მივდიოდი** / **დავდიოდი** / enter-exit; completed **გავედი** / **შევედი** / **ჩავედი** / **ავედი**; bathroom, laundry, kitchen; **ქაცვი**

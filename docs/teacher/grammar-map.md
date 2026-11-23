@@ -1,6 +1,6 @@
 # Grammar and vocab map
 
-Quick index. Search this table, then open the [topic lists](by-topic.md) or the lesson. Combined dump: [all lessons 1–18](all-lessons.md).
+Quick index. Search this table, then open the [topic lists](by-topic.md) or the lesson. Combined dump: [all lessons 1–19](all-lessons.md).
 
 | Topic | Keywords | Where |
 | --- | --- | --- |
@@ -10,8 +10,11 @@ Quick index. Search this table, then open the [topic lists](by-topic.md) or the 
 | Animals | ძაღლი კატა თხა ცხოველი | [by topic](by-topic.md#animals) · [7](lesson-07.md) |
 | Clothes / body | კაბა კურტუკი ხელი | [by topic](by-topic.md#clothes--body) · [9](lesson-09.md) |
 | Shopping / clothes phrases | მოვსინჯო, გიხდება, ფასდაკლება, ესეთი/ასეთი | [by topic](by-topic.md#shopping--clothes-phrases) · [13](lesson-13.md) · [15](lesson-15.md) |
-| Food / fruit / veg / dairy | ფორთოხალი ნიორი რძე ყველი ნაყინი კონა | [by topic](by-topic.md#food--fruit--vegetables) · [1](lesson-01.md) · [3](lesson-03.md) · [6](lesson-06.md) · [14](lesson-14.md) · [15](lesson-15.md) |
+| Food / fruit / veg / dairy | ფორთოხალი ნიორი რძე ყველი ნაყინი კონა, ქაცვი | [by topic](by-topic.md#food--fruit--vegetables) · [1](lesson-01.md) · [3](lesson-03.md) · [6](lesson-06.md) · [14](lesson-14.md) · [15](lesson-15.md) · [19](lesson-19.md) |
 | Dishes / tableware | ჭურჭელი თეფში ჭიქა კოვზი დანა ჩანგალი ქვაბი ტაფა | [by topic](by-topic.md#dishes--tableware) · [14](lesson-14.md) |
+| Kitchen | ღუმელი, გაზქურა, მიკროტალღური, ნიჟარა, ფქვილი, ჭურჭლის სარეცხი მანქანა | [by topic](by-topic.md#kitchen) · [19](lesson-19.md) |
+| Bathroom / hygiene | შამპუნი, საპონი, კბილის ჯაგრისი, სარკე, თმის საშრობი | [by topic](by-topic.md#bathroom--hygiene) · [19](lesson-19.md) |
+| Laundry | რეცხვა, სარეცხი მანქანა, რეცხვის ბალზამი | [by topic](by-topic.md#laundry) · [19](lesson-19.md) |
 | Places / work | კაფე კინო თეატრი ბაზარი სამსახური, ცენტრი, სავაჭრო ცენტრი | [by topic](by-topic.md#places--work) · [2](lesson-02.md) · [17](lesson-17.md) |
 | Transport | მანქანა ავტობუსი მარშრუტკა ველოსიპედი, მეტრო | [by topic](by-topic.md#transport) · [1](lesson-01.md) · [2](lesson-02.md) · [8](lesson-08.md) · [18](lesson-18.md) |
 | Home / objects | მაგიდა სკამი კარადა მაცივარი | [by topic](by-topic.md#home--objects) · [1](lesson-01.md) · [10](lesson-10.md) · [13](lesson-13.md) |
@@ -61,7 +64,18 @@ Quick index. Search this table, then open the [topic lists](by-topic.md) or the 
 | Motion: enter a room | შევდივარ, შედიხარ, შედის, შევდივართ, შედიხართ, შედიან, შედი | [18](lesson-18.md) · [by topic](by-topic.md#verbs-motion-go--walk--enter--exit) |
 | Motion: exit transport / go down | ჩავდივარ, ჩადიხარ, ჩადის, ჩავდივართ, ჩადიხართ, ჩადიან, ჩადი | [18](lesson-18.md) · [by topic](by-topic.md#verbs-motion-go--walk--enter--exit) |
 | Motion: enter transport / go up | ავდივარ, ადიხარ, ადის, ავდივართ, ადიხართ, ადიან, ადი | [18](lesson-18.md) · [by topic](by-topic.md#verbs-motion-go--walk--enter--exit) |
-| Motion past | ოდი, ოდით, ოდა, ოდნენ | [18](lesson-18.md) · [by topic](by-topic.md#verbs-motion-go--walk--enter--exit) |
+| Motion past | imperfect / ongoing and completed enter-exit; go/walk imperfect only | [19](lesson-19.md) · [by topic](by-topic.md#verbs-motion-go--walk--enter--exit) |
+| Motion imperfect: go | მივდიოდი, მიდიოდი, მიდიოდა, მივდიოდით, მიდიოდით, მიდიოდნენ | [19](lesson-19.md) |
+| Motion imperfect: walk | დავდიოდი, დადიოდი, დადიოდა, დავდიოდით, დადიოდით, დადიოდნენ | [19](lesson-19.md) |
+| Motion imperfect: exit room | გავდიოდი, გადიოდი, გადიოდა, გავდიოდით, გიდიოდით, გადიოდნენ | [19](lesson-19.md) |
+| Motion completed: exit room | გავედი, გახვედი, გავიდა, გავედით, გახვედით, გავიდნენ | [19](lesson-19.md) |
+| Motion imperfect: enter room | შევდიოდი, შედიოდი, შედიოდა, შევდიოდით, შევდიოდით, შედიოდნენ | [19](lesson-19.md) |
+| Motion completed: enter room | შევედი, შეხვედი, შევიდა, შევედით, შეხვედით, შევიდნენ | [19](lesson-19.md) |
+| Motion imperfect: exit transport / down | ჩავდიოდი, ჩადიოდი, ჩადიოდა, ჩავდიოდით, ჩადიოდით, ჩადიოდნენ | [19](lesson-19.md) |
+| Motion completed: exit transport / down | ჩავედი, ჩახვედი, ჩავიდა, ჩავედით, ჩახვედით, ჩავიდნენ | [19](lesson-19.md) |
+| Motion imperfect: enter transport / up | ავდიოდი, ადიოდი, ადიოდა, ავდიოდით, ავდიოდით, ადიოდნენ | [19](lesson-19.md) |
+| Motion completed: enter transport / up | ავედი, ახვედი, ავიდა, ავედით, ახვედით, ავიდნენ | [19](lesson-19.md) |
+| Sea buckthorn | ქაცვი | [19](lesson-19.md) · [by topic](by-topic.md#food--fruit--vegetables) |
 | Enough | საკმარისი, მეყოფა | [15](lesson-15.md) · [by topic](by-topic.md#quantity) |
 | Dairy | რძე, ხაჭო, არაჟანი, იოგურტი, ყველი, კეფირი, კარაქი, ნაყინი, ნაღები | [15](lesson-15.md) · [by topic](by-topic.md#food--fruit--vegetables) |
 | Fridge | მაცივარი | [13](lesson-13.md) |
